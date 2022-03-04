@@ -6,11 +6,11 @@ python3, sqlite3
 ### parameters
 no_sm = "j,sh,x"
 
-alll wrong shengmu
+\#all wrong shengmu
 
 no_ym = "i,an,ian"
 
-all wrong yunmu
+\#all wrong yunmu
 
 sd = "1,134,14,13"
 
