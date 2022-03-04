@@ -4,24 +4,33 @@
 python3, sqlite3
 
 ### parameters
-no_sm = "j,sh,x" 
+no_sm = "j,sh,x"
+
 alll wrong shengmu
 
-no_ym = "i,an,ian" 
+no_ym = "i,an,ian"
+
 all wrong yunmu
 
-sd = "1,134,14,13" 
+sd = "1,134,14,13"
+
 possible shengdiao for each location
 
-sm = "-,-,-,-" 
+sm = "-,-,-,-"
+
 correct shengmu for correct location
 
-ym = "-,-,-,-" 
+ym = "-,-,-,-"
+
 correct shengmu for correct location
 
-possible_smym = ''' 
+possible_smym = '''
+
 sm,y,234 
+
 ym,u,134 
+
 '''
+
 possible shengmu/yunmu and possible locations
 
