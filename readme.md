@@ -14,15 +14,15 @@ no_ym = "i,an,ian"
 
 sd = "1,134,14,13"
 
-possible shengdiao for each location
+\#possible shengdiao for each location
 
 sm = "-,-,-,-"
 
-correct shengmu for correct location
+\#correct shengmu for correct location
 
 ym = "-,-,-,-"
 
-correct shengmu for correct location
+\#correct shengmu for correct location
 
 possible_smym = '''
 
@@ -32,5 +32,5 @@ ym,u,134
 
 '''
 
-possible shengmu/yunmu and possible locations
+\#possible shengmu/yunmu and possible locations
 
